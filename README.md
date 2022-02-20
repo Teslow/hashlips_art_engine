@@ -1,4 +1,4 @@
-# Welcome to HashLips 👄
+# Welcome to Tesow's NFT engine 👄
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
@@ -6,17 +6,15 @@ All the code in these repos was created and explained by HashLips on the main Yo
 
 To find out more please visit:
 
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+[🐦 Twitter](https://twitter.com/cryptophonks)
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
+[👄 Discord]()
 
-[💬 Telegram](https://t.me/hashlipsnft)
+[💬 Telegram]
 
-[🐦 Twitter](https://twitter.com/hashlipsnft)
+[ℹ️ Website]
 
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# HashLips Art Engine 🔥
+# Teslows Art Engine 🔥
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/banner.png)
 
